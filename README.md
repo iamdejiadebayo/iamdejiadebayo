@@ -2,26 +2,26 @@
 
 **Software & AI Engineer | AI Product Manager | Consultant**
 
-I build AI systems that work in the real world — not just in notebooks. My background spans software engineering, machine learning, AI product management, and consulting, with hands-on experience shipping production LLM applications, retrieval-augmented generation pipelines, and intelligent workflow automation to real users at scale. I bridge the gap between deep technical execution and strategic product thinking — writing production code one day and advising on AI strategy the next.
+I build AI systems that work in the real world, not just in notebooks. My background spans software engineering, machine learning, AI product management, and consulting, with hands-on experience shipping production LLM applications, retrieval-augmented generation pipelines, and intelligent workflow automation to real users at scale. I bridge the gap between deep technical execution and strategic product thinking writing production code one day and advising on AI strategy the next.
 
 ---
 
-## What I've Built
+## What I have Built
 
 **AnsysGPT** *(Ansys, Part of Synopsys)*
-A production LLM-powered chatbot shipped to Ansys customers — built on Azure OpenAI with custom retrieval-augmented generation (RAG) over Ansys physics knowledge. I owned the full data stack: scraping, cleaning, embedding, retrieval pipeline design, and prompt engineering to optimise domain-specific response quality.
+A production LLM-powered chatbot shipped to Ansys customers: built on Azure OpenAI with custom retrieval-augmented generation (RAG) over Ansys physics knowledge. I owned the full data stack: scraping, cleaning, embedding, retrieval pipeline design, and prompt engineering to optimise domain-specific response quality.
 
 **Quiz Maker Bot** *(Ansys)*
-An internal LLM application that automatically generated quiz questions from structured course content for Ansys customer learning teams — reducing manual content creation time significantly.
+An internal LLM application that automatically generated quiz questions from structured course content for Ansys customer learning teams, reducing manual content creation time significantly.
 
 **Generative Design MVP** *(Ansys AI Product Management)*
-End-to-end AI product integrating PyAnsys SimAI and GeomAI libraries — built data ingestion pipelines, triggered AI model training, and demonstrated API capabilities to executive stakeholders. Conducted competitive analysis of AI simulation platforms and contributed to the developer ecosystem product strategy.
+End-to-end AI product integrating PyAnsys SimAI and GeomAI libraries, built data ingestion pipelines, triggered AI model training, and demonstrated API capabilities to executive stakeholders. Conducted competitive analysis of AI simulation platforms and contributed to the developer ecosystem product strategy.
 
 **Enterprise Financial Software** *(Cynergy Solutions)*
-Production software and regulatory API integrations for financial institutions across Nigeria and Africa — including a compliance reporting tool that saved United Bank for Africa from regulatory sanctions and drove 50% revenue growth.
+Production software and regulatory API integrations for financial institutions across Nigeria and Africa, including a compliance reporting tool that saved United Bank for Africa from regulatory sanctions and drove 50% revenue growth.
 
 **Digital Fabrication Platform Strategy** *(Engineering for Change)*
-Led a cross-functional consulting team delivering technology strategy and product roadmap for a digital fabrication platform — translating user research and market analysis into actionable execution plans for an international development organisation.
+Led a cross-functional consulting team delivering technology strategy and product roadmap for a digital fabrication platform translating user research and market analysis into actionable execution plans for an international development organisation.
 
 ---
 
@@ -52,17 +52,17 @@ consulting       = ["Market Research", "Competitive Analysis", "Business Case De
 |------------|-------------|-------|
 | [cmu-deep-learning](https://github.com/deji-adebayo/cmu-deep-learning) | Deep learning projects from CMU 11-785: MLP, CNN, RNN/LSTM, ASR, attention | PyTorch, CUDA |
 
-*More projects coming — including LLM tooling, RAG demos, and agentic workflow experiments.*
+*More projects coming including LLM tooling, RAG demos, and agentic workflow experiments.*
 
 ---
 
 ## Background
 
-- **MBA** — Boston University Questrom School of Business (Management Science & Social Impact)
-- **MS Information Technology** — Carnegie Mellon University *(magna cum laude)*
-- **BSc Computer Science** — University of Lagos *(magna cum laude)*
+- **MBA** : Boston University Questrom School of Business (Management Science & Social Impact)
+- **MS Information Technology** : Carnegie Mellon University *(magna cum laude)*
+- **BSc Computer Science** : University of Lagos *(magna cum laude)*
 
-I have worked across software engineering, machine learning engineering, AI product management, and technology consulting — giving me the ability to operate at every layer of the stack, from writing production Python to shaping product strategy and advising organisations on AI adoption.
+I have worked across software engineering, machine learning engineering, AI product management, and technology consulting, giving me the ability to operate at every layer of the stack, from writing production Python to shaping product strategy and advising organisations on AI adoption.
 
 Currently open to **LLM / AI Engineer**, **Technical Product Manager**, and **AI Product & Strategy** roles.
 
