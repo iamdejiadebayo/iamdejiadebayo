@@ -50,9 +50,9 @@ consulting       = ["Market Research", "Competitive Analysis", "Business Case De
 
 | Repository | Description | Stack |
 |------------|-------------|-------|
-| [cmu-deep-learning](https://github.com/deji-adebayo/cmu-deep-learning) | Deep learning projects from CMU 11-785: MLP, CNN, RNN/LSTM, ASR, attention | PyTorch, CUDA |
+| [cmu-deep-learning](https://github.com/iamdejiadebayo/cmu-deep-learning) | Deep learning projects from CMU 11-785: MLP, CNN, RNN/LSTM, ASR, attention | PyTorch, CUDA |
 
-*More projects coming including LLM tooling, RAG demos, and agentic workflow experiments.*
+
 
 ---
 
