@@ -51,7 +51,7 @@ consulting       = ["Market Research", "Competitive Analysis", "Business Case De
 | Repository | Description | Stack |
 |------------|-------------|-------|
 | [cmu-deep-learning](https://github.com/iamdejiadebayo/cmu-deep-learning) | Deep learning projects from CMU 11-785: MLP, CNN, RNN/LSTM, ASR, attention | PyTorch, CUDA | 
-| [Data-Science-Project](https://github.com/iamdejiadebayo/Data-Science-Project) | Data Inference and applied machine learning projects, Python, Pandas/Numpy, Skilearn, Scikitlearn | Matplotlib, Decision tree |
+| [Data-Science-Project](https://github.com/iamdejiadebayo/Data-Science-Project) | Data Inference and applied machine learning projects |  Python, Pandas/Numpy, Skilearn, Scikitlearn, Matplotlib, ML models |
 
 
 
